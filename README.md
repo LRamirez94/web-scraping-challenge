@@ -5,3 +5,6 @@ Created an Flask app that scraped the latest news, weather, facts, and images of
 ## Creating the app
 
 First we design the scrape method of each website using a Jupyter Notebook.
+
+## Tools
+Selenium, MongoDB, Beautiful Soup, Flask, and Python.
